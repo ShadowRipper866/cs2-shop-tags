@@ -13,9 +13,6 @@
 - [Shop Core](https://stellarteam.store/resource/cs2-shop-core)
 - [Utils](https://github.com/Pisex/cs2-menus/releases/latest)
 
-## Команды
-- `!tag <текст>` или `mm_settag <текст>` — Установить свой тег (если куплен предмет с `isCustom`).
-
 ## Переводы
 Добавьте в `translations/shop.phrases.txt`:
 ```ini
